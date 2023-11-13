@@ -3,7 +3,7 @@
 banner:
   title: "Lorem ipsum dolor sit amet"
   button: "Contact"
-  button_link: "https://gethugothemes.com/products/andromeda/"
+  button_link: "/"
   image: "images/uc.jpg"
 
 
