@@ -68,7 +68,7 @@ enable = true
 title = "Lorem ipsum dolor sit amet"
 content = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
 button = "Reach Out"
-button_link = "https://gethugothemes.com/products/andromeda/"
+button_link = ""
 
 ############################# social site ########################
 [[social]]
