@@ -1,10 +1,10 @@
 ---
 # banner
 banner:
-  title: "Andromeda is the most intuitive way to prototype Designs"
-  button: "Get Premium Version"
+  title: "Lorem ipsum dolor sit amet"
+  button: "Contact"
   button_link: "https://gethugothemes.com/products/andromeda/"
-  image: "images/banner-app.png"
+  image: "images/uc.jpg"
 
 
 # brands
@@ -27,27 +27,27 @@ brands_carousel:
 # features
 features:
   enable: true
-  subtitle: "Special Features"
-  title: "Elements to <br> get you started"
+  subtitle: "Lorem Ipsum"
+  title: "Lorem ipsum dolor sit amet"
   description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
   features_blocks:
   - icon: "las la-lock"
-    title: "Updated Security"
+    title: "Lorem ipsum"
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
   - icon: "las la-magnet"
-    title: "Magnetic Turning"
+    title: "Lorem ipsum"
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
   - icon: "las la-tachometer-alt"
-    title: "Secured &amp; up-to-date"
+    title: "Lorem ipsum"
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
   - icon: "las la-link"
-    title: "Instant Link Sharing"
+    title: "Lorem ipsum"
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
   - icon: "las la-lock"
-    title: "Updated Security"
+    title: "Lorem ipsum"
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
   - icon: "las la-magnet"
-    title: "Magnetic Turning"
+    title: "Lorem ipsum"
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
 
 
@@ -57,7 +57,7 @@ intro_video:
   subtitle: "Short Intro Video"
   title: "Built exclusively for you"
   description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
-  video_url: "https://www.youtube.com/embed/dyZcRRWiuuw"
+  video_url: "https://www.youtube.com/embed/dQw4w9WgXcQ?si=79pqe3mKaE5O_HLN"
   video_thumbnail: "images/video-popup.jpg"
 
 
@@ -65,15 +65,15 @@ intro_video:
 how_it_works:   
   enable: true
   block:
-  - subtitle: "Primary Speciality"
-    title: "You Will Not miss Your All misunderstandings"
-    description: "Protect your design vision and leave nothing up to interpretation with interaction recipes. Quickly share and access all your team members interactions by using libraries, ensuring consistency throughout the."
-    image: "images/features-01.png"
+  - subtitle: "Primary "
+    title: "Lorem ipsum dolor sit amet"
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
+    image: "images/uc.jpg"
 
-  - subtitle: "Secondary Speciality"
-    title: "Say hello to no-code The Advance Creation"
-    description: "From the simplest of interactions to those that use Excel-gradeing formulas, ProtoPie can handle them all. Make mind-blowing of New interactions everyday without ever having to write any new code."
-    image: "images/features-02.png"
+  - subtitle: "Secondary"
+    title: "Lorem ipsum dolor sit amet"
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
+    image: "images/uc.jpg"
 
 
 # testimonials

@@ -1,10 +1,10 @@
 ---
-date: "2021-07-08"
-title: "How and why we decided to launch an EMI scheme for our employees."
-image: "images/blog/02.jpg"
+date: "2021-07-13"
+title: "Why you should launch your product in phases not after done"
+image: ""
 author_info: 
   name: "Derick Barker"
-  image: "images/author/derick.jpg"
+  image: ""
 draft: false
 ---
 

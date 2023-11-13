@@ -7,12 +7,10 @@
            <nav class="navbar navbar-expand-lg navbar-light p-0">
               <a class="navbar-brand" href="{{ site.BaseURL | relLangURL }}">
                 {{ $logo:= site.Params.logo }}
-                {{ if fileExists (add `assets/` $logo) }}
-                {{ $logo:= resources.Get $logo }}
-                <img loading="preload" decoding="async" class="img-fluid" width="{{site.Params.logo_width}}" height="45" src="{{$logo.RelPermalink}}" alt="{{ site.Title }}" onerror="this.onerror=null;this.src='{{$logo.RelPermalink}}'">
-                {{ else }}
-                {{site.Params.logo_text | markdownify}}
-                {{ end }}
+                
+                <img loading="preload" decoding="async" class="img-fluid" width="{{site.Params.logo_width}}" height="45" src="{{$logo}}" alt="{{ site.Title }}">
+           
+             
               </a>
 
               <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navHeader" aria-controls="navHeader" aria-expanded="false" aria-label="Toggle navigation">
